@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="grid grid-cols-12 relative z-10 bg-white pt-20 pb-10 lg:pt-[120px] lg:pb-20">
+    <footer className="grid grid-cols-12 relative z-[5] bg-white pt-20 pb-10 lg:pt-[120px] lg:pb-20">
       <div className="col-start-2 col-span-11 container mx-auto">
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full pl-4 sm:w-2/3 lg:w-3/12">
@@ -259,7 +259,7 @@ export default function Footer() {
           </svg>
         </span>
         <span className="absolute top-10 right-10 z-[-1]">
-          <svg
+          {/* <svg
             width="75"
             height="75"
             viewBox="0 0 75 75"
@@ -279,11 +279,11 @@ export default function Footer() {
                 y2="37.5"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#13C296" stopOpacity="0.31" />
-                <stop offset="1" stopColor="#C4C4C4" stopOpacity="0" />
+                <stop stopColor="#d4d0fe" stopOpacity="0.31" />
+                <stop offset="1" stopColor="#f1eeff" stopOpacity="0" />
               </linearGradient>
             </defs>
-          </svg>
+          </svg> */}
         </span>
       </div>
     </footer>
