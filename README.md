@@ -1,3 +1,8 @@
+# Note
+
+This project is my first dive into React. I was just getting start with React while working on this so it doesn't include or follow any design patterns or clean code implementations.
+But hey, anyone must have a start right. That's why I'm planning to perform a remake to ensure the best possible user experience and code quality. Stay tuned for more polished code! 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
